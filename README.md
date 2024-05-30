@@ -1,1 +1,1 @@
-# Capivara | Finanças
+# Capivara
