@@ -17,6 +17,7 @@
         "chroma-js": "^2.1.2",
         "dexie": "^3.2.3",
         "dexie-observable": "^4.0.1-beta.13",
+        "dotenv": "^16.4.5",
         "gsap": "^3.12.5",
         "jszip": "^3.10.1",
         "lodash-es": "^4.17.21",

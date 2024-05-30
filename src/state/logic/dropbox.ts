@@ -6,7 +6,7 @@ import { DataSlice } from "../data";
 import { StubUserID, User } from "../data/types";
 import { DROPBOX_NOTIFICATION_ID } from "./notifications/types";
 
-const APP_KEY = `${process.env.DROPBOX_APP_KEY}`;
+const APP_KEY = import.meta.env.VITE_DROPBOX_APP_KEY;
 const REDIRECT_URI = `${window.location.origin}${BASE_PATHNAME}/dropbox`;
 
 const AUTH_URL = `https://dropbox.com/oauth2/authorize?response_type=code&client_id=${APP_KEY}&redirect_uri=${REDIRECT_URI}&token_access_type=offline&code_challenge_method=S256`;
