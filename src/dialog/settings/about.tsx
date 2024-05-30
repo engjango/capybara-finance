@@ -27,7 +27,7 @@ export const DialogAboutContents: React.FC = () => {
                 <Typography variant="body2" sx={{fontSize: "14px"}}>
                     {translations[language].welcomeDesc}{' '}
                     <Link
-                        href="https://github.com/engjango/cartola-web/blob/main/README.md"
+                        href="https://github.com/engjango/capybara-finance/blob/main/README.md"
                         underline="hover"
                         target="_blank"
                     >

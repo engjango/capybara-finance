@@ -79,7 +79,7 @@ export const CapybaraTutorial: React.FC = () => {
                     <Typography variant="body1" sx={{ fontWeight: 400, fontSize: '1.1rem', color: '#67646a' }}>
                         {translations[language].welcomeDesc}{' '}
                         <Link
-                            href="https://github.com/engjango/cartola-web/blob/main/README.md"
+                            href="https://github.com/engjango/capybara-finance/blob/main/README.md"
                             underline="hover"
                             target="_blank"
                         >

@@ -2,7 +2,7 @@
     "name": "capybara-web",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://cartola-web.vercel.app",
+    "homepage": "https://capybara-teal.vercel.app",
     "type": "module",
     "dependencies": {
         "@date-io/luxon": "^2.16.1",
