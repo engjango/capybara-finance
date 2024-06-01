@@ -4,5 +4,5 @@
 
 # Capivara
 
-O modo mais simples de descrever o Capivara é como sendo um aplicativo de finanças pessoais do tipo local-first, onde é possível acompanhar e lançar movimentações manualmente, assim como importar extratos e planilhas financeiras.
+Capivara é um aplicativo simples de finanças pessoais do tipo local-first, onde é possível acompanhar e lançar movimentações manualmente, assim como importar extratos e planilhas financeiras.
 
