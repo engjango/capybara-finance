@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://capybara-teal.vercel.app"><img width="37px" src="public/logo_144x144.png" alt="Capybara" /></a>
+  <a href="https://capybara-teal.vercel.app"><img width="37px" src="public/logo.png" alt="Capybara" /></a>
 </div>
 
 # Capivara
