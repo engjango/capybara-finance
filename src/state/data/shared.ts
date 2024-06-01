@@ -16,10 +16,10 @@ export const DEFAULT_CURRENCY: Currency = {
     colour: '#7157D9',
     transactions: BaseTransactionHistoryWithLocalisation(),
     start: getCurrentMonthString(),
-    rates: [{ month: getCurrentMonthString(), value: 0.75 }],
-    symbol: 'AU$',
-    name: 'Australian Dollars',
-    ticker: 'AUD',
+    rates: [{ month: getCurrentMonthString(), value: 1 }],
+    symbol: 'R$',
+    name: 'Real Brasileiro',
+    ticker: 'BRL',
 };
 
 export const DEMO_ALPHAVANTAGE_TOKEN = 'demo';
