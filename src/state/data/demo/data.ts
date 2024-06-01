@@ -113,7 +113,7 @@ const makeInstitution = (args: InstitutionArgs, id: number) =>
         colour: args[2],
     } as Institution);
 const rawInstitutions: InstitutionArgs[] = [
-    ["Bredesco", ING_DIRECT_DEMO_ICON, "#FF0000"],
+    ["Bradesco", ING_DIRECT_DEMO_ICON, "#FF0000"],
     ["Itaú", NATWEST_DEMO_ICON, "#FF6600"],
     ["Santander", TRANSFERWISE_DEMO_ICON, "#CC0000"],
     ["Nubank", ST_GEORGE_DEMO_ICON, "#8A05BE"],
