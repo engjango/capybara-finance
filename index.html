@@ -9,23 +9,6 @@
     <link rel="apple-touch-icon" href="/logo_144x144.png" />
     <link rel="manifest" href="/manifest.json" />
     <title>Capivara Finanças</title>
-
-    <!-- c/o https://github.com/rafgraph/spa-github-pages -->
-    <script type="text/javascript">
-        (function () {
-            if (location.search.slice(1).split('&').some(function (param) { return param.includes('~and~'); })) {
-                var newSearch = location.search
-                    .slice(1)
-                    .split('&')
-                    .map(function (param) {
-                        return param.replace(/~and~/g, '&');
-                    })
-                    .join('&');
-                var newUrl = location.origin + location.pathname + '?' + newSearch + location.hash;
-                window.history.replaceState(null, null, newUrl);
-            }
-        })();
-    </script>
 </head>
 <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
