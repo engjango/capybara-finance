@@ -1,6 +1,5 @@
-<div align="center">
-  <a href="https://capybara-teal.vercel.app"><img width="77px" src="public/logo.png" alt="Capybara" /></a>
-</div>
+
+![image](https://github.com/user-attachments/assets/277588a6-e641-4762-be36-8acee97b7eee)
 
 # Capivara
 
