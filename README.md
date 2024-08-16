@@ -7,7 +7,5 @@ Capivara é um aplicativo simples de finanças pessoais do tipo local-first, ond
 
 # Screenshots
 
-<div align="center">
-  <a href="https://capybara-teal.vercel.app"><img style="width: 284px" src="screenshot.png" alt="Capybara" /></a>
-</div>
+<a href="https://capybara-teal.vercel.app"><img style="width: 284px" src="screenshot.png" alt="Capybara" /></a>
 
